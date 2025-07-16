@@ -1,6 +1,5 @@
 (function () {
-  const chatbotURL =
-    'http://localhost:5173/genie/genie/weblink/6a8beae9-fe55-4705-8902-76932c147be5';
+  const chatbotURL = currentScript?.getAttribute('data-chatbot-url');
 
   const iframeWrapper = document.createElement('div');
   iframeWrapper.id = 'chatbot-wrapper';
