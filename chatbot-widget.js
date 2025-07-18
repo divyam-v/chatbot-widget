@@ -1,5 +1,5 @@
 (function () {
-  const chatbotURL = "https://1c01f22cd317.ngrok-free.app/genie/genie/weblink/f5168cb5-99c3-495e-8af4-6bcfd5241ecc";
+  const chatbotURL = "https://d27b62895aaf.ngrok-free.app/genie/genie/weblink/f5168cb5-99c3-495e-8af4-6bcfd5241ecc";
 
   const iframeWrapper = document.createElement('div');
   iframeWrapper.id = 'chatbot-wrapper';
