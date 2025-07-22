@@ -33,7 +33,7 @@
 
   const button = document.createElement("button");
   button.id = "chatbot-button";
-  button.innerHTML = `<img src="./logo.png" alt="chatbot" style=" height: 100%;">`;
+  button.innerHTML = `<img src="https://divyam-v.github.io/chatbot-widget/logo.png" alt="chatbot" style=" height: 100%;">`;
 
   Object.assign(button.style, {
     position: "fixed",
